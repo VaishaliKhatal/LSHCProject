@@ -1,5 +1,7 @@
 Initial draft for FEature 1 and enhaned it.
 
-Change for FEature2 
+Change: for FEature2 
 
-Change for CR1
+Change: for CR1
+
+Change: bug1 by team mate on remote master 3-way with conflict
