@@ -1,9 +1,11 @@
 Initial draft for FEature 1 and enhaned it.
 
-Change: for FEature2 .
+Change1: for FEature2 .
 
-Change: for CR1.
+Change2: for CR1.
 
-Change: bug1 by team mate on remote master 3-way with conflict.
+Change3: bug1 by team mate on remote master 3-way with conflict.
 
-Change: for CR 3-way merging with conflict.
+Change4: for CR 3-way merging with conflict.
+
+Change5: for CR4 on remote master by team mate for rebase with conflict.
